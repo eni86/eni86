@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/jenifer-g-m-barneche" target="blank">
 Jenifer</a></h1>
-<h3 align="center">An IT Analyst and Bachellor Degree In Biology Sciences from Tacuarembó, Uruguay &#127470;&#127475</h3>
+<h3 align="center">An IT Analyst and Bachellor Degree In Biology Sciences from Tacuarembó, Uruguay</h3>
 
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://dribbble.com/shots/14895643-Working-Women-on-Her-Laptop-Lottie-Animation/attachments/6608792?mode=media">
-</a>
 
 - 🔭 I’m currently studing Data Analysis and I´m passionate in programming and documentation
 
