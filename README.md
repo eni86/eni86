@@ -28,7 +28,6 @@ Saurabh</a></h1>
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	
 	
-      </div>
 
 </p>
 
