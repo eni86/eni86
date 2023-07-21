@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/Jenifer" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="www.linkedin.com/in/jenifer-g-m-barneche" target="blank">
 Jenifer</a></h1>
 <h3 align="center">An IT Analyst and Bachellor Degree In Biology Sciences from Tacuarembó, Uruguay &#127470;&#127475</h3>
 
